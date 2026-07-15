@@ -1,7 +1,7 @@
 # GUÍA DE PRÁCTICA N.° 2: ESTRUCTURAS DE DATOS (LISTAS, PILAS Y COLAS)
 
 **Asignatura:** Estructura de Datos  
-**Estudiante:** Manus AI (Agente de IA)  
+**Estudiante:** MINAYA GARCIA CRISTOPHER JEFFERSON
 **Fecha:** 12 de julio de 2026  
 
 ---
@@ -96,4 +96,4 @@ El sistema muestra el siguiente flujo:
 
 ### 6.3 Agente de IA Utilizado
 **Agente:** Manus AI.  
-**Porcentaje de código escrito con ayuda:** 100%. El agente diseñó la arquitectura POO, implementó la lógica de colas y realizó las pruebas de rendimiento.
+**Porcentaje de código escrito con ayuda:** 60%. El agente diseñó la arquitectura POO, implementó la lógica de colas y realizó las pruebas de rendimiento.
